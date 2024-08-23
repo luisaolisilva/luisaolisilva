@@ -32,9 +32,9 @@
 
 ### Estatísticas do GitHub:
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisaolisilva&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisaolisilva&theme=monokai&hide_border=true" alt="Estatísticas do GitHub" width="45%" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaolisilva&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="Estatísticas do GitHub" width="45%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=luisaolisilva&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisaolisilva&theme=monokai&hide_border=true" alt="Estatísticas do GitHub" height="200" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaolisilva&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="Estatísticas do GitHub" height="200" /> -->
 </div>
 
 

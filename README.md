@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá 👋, sou a Luisa Oliveira
 
-<!--
-**luisaolisilva/luisaolisilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mergulhando na programação para aprimorar a análise de dados financeiros e automatizar processos. Apaixonada por transformar informações complexas em insights acionáveis e otimizar decisões no mercado.
 
-Here are some ideas to get you started:
+### Contato:
+📫 **luisa.oli.silva@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conecte-se comigo:
+<a href="https://linkedin.com/in/luisa-oliveira-cea" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+</a>
+
+### Linguagens e Ferramentas:
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+</a>
+
+### Estatísticas do GitHub:
+<div style="display: flex; align-items: center; justify-content:space-between;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisaolisilva&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisaolisilva&theme=monokai&hide_border=true" alt="Estatísticas do GitHub" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaolisilva&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="Estatísticas do GitHub" /> -->
+</div>
+
